@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-10-22T09:10:12.7043531+00:00",
+  "expiresAt": "2026-11-21T09:10:12.7043531+00:00",
+  "keyId": "binepad-firmware-2026",
+  "studio": [],
+  "firmware": [
+    {
+      "id": "binepad.bnk16.protected-uf2",
+      "version": "1.7.133",
+      "channel": "stable",
+      "downloadUrl": "https://github.com/binepad/binepad-updates/releases/download/bnk16-1.7.133/BNK16-1.7.133-USB-UPDATE.uf2",
+      "sha256": "8F6B05DBE6E89B24538B314204C533E5F50D59E3A652C38AEF58AB72D1456C1E",
+      "signature": "77XC0MQXJfKWtQzz5Jhm3UuAmfcrPAS9AcBlC0zJ4hpE9uFA6EjUCko\u002BpWOg1LcBwqM8Gb8wAkAkD0yfHQE\u002BGg==",
+      "rolloutPercent": 100,
+      "minimumStudioVersion": "0.11.96",
+      "targetId": "binepad.bnk16",
+      "hardwareRevisions": [
+        "1"
+      ],
+      "protocolMajor": 1
+    }
+  ],
+  "devicePacks": [],
+  "integrationPacks": [],
+  "signature": "3CMveH7kEM1yNsDCa/jQmPbybmk\u002BT1O38\u002B\u002B0n9Jmqd2648ujKj7RynYXHRTKxafG108VmRZ0Mn8mkJzlJGEhoA=="
+}
